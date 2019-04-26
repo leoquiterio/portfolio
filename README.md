@@ -1,10 +1,14 @@
 # Portfólio
 
-Abaixo está uma lista dos sites desenvolvidos em PHP, CSS, JS, jQuery e MySQL.
-
-Há projetos freelancers e por agências.
+Lista das aplicações Front-end desenvolvidos em PHP, CSS/SASS, VanillaJS, jQuery e MySQL.
 
 ```
+www.clinicaportioli.com.br
+www.matryxpq.com.br
+www.carmox.net.br
+www.singcomunica.com.br
+www.pasoita.com.br
+www.vovoize.com.br
 www.clienteup.com
 www.agenciaselva.com
 www.dentalalternativa.com.br
