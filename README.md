@@ -15,7 +15,7 @@ www.dentalalternativa.com.br
 www.f5sg.com.br
 www.l2cconsultoria.com
 www.e-projet.com.br
-www.3axfibra.net.br
+www.3axfibra.net.br/pontal
 www.belezinidalmazo.com.br
 www.linklog.link
 www.orthopremium.com.br
@@ -24,7 +24,6 @@ www.brilhotex.com.br
 www.bombonatohotel.com.br
 www.invistanet.com.br
 www.coachorlando.com.br
-www.espacofitness.esp.br
 www.gogicaldeiraria.com.br
 www.goldenpokersertaozinho.com.br
 www.inoxpira.com.br
